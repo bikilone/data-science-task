@@ -14,4 +14,4 @@ The model's performance is evaluated using precision, recall, F1-score, and conf
 
 ## Setup Environment
 To set up the environment, run the following command:
-conda env create --file environment.yml --name env
+```conda env create --file environment.yml --name env```
