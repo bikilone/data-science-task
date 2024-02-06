@@ -10,7 +10,7 @@ The project consists of two Jupyter Notebooks: `telco-customer-churn.ipynb` and 
 The Random Forest Classification model is implemented to predict customer churn. The dataset is preprocessed, categorical features are encoded, and the model is trained using undersampling techniques to address class imbalance.
 
 ## Metrics and Evaluation
-The model's performance is evaluated using precision, recall, F1-score, and confusion matrix. The Random Forest Classification Undersampled model is selected as the preferred choice for customer retention efforts due to its robust recall for identifying churn cases.
+The model's performance is evaluated using precision, recall, F1-score, and confusion matrix. The Random Forest Classification undersampled model is selected as the preferred choice for customer retention efforts due to its robust recall for identifying churn cases.
 
 ## Cloning the Repository
 To clone the repository, run the following command:
