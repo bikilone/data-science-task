@@ -12,6 +12,10 @@ The Random Forest Classification model is implemented to predict customer churn.
 ## Metrics and Evaluation
 The model's performance is evaluated using precision, recall, F1-score, and confusion matrix. The Random Forest Classification Undersampled model is selected as the preferred choice for customer retention efforts due to its robust recall for identifying churn cases.
 
+## Cloning the Repository
+To clone the repository, run the following command:
+```git clone https://github.com/bikilone/data-science-task.git```
+
 ## Setup Environment
 To set up the environment, run the following command:
 ```conda env create --file environment.yml --name env```
