@@ -19,3 +19,7 @@ To clone the repository, run the following command:
 ## Setup Environment
 To set up the environment, run the following command:
 ```conda env create --file environment.yml --name env```
+
+## Running Jupyter Notebooks
+To run Jupyter Notebooks locally, make sure you have Jupyter installed in your Python environment. Navigate to the directory containing the notebook files and run the following command:
+```jupyter notebook```
